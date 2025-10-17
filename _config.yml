@@ -1,11 +1,11 @@
 # Site settings
 title: Xjay Blog
 SEOTitle: xjay的博客 | xjay Blog
-header-img: img/home-bg.jpg
+header-img: img/windbreaker.jpg
 email: liuxvjie@gmail.com
 description: "这里是 xjay 的小小世界 | xjay是小小的天才，但天才也要努力奋斗"
 keyword: "xjay，genius，diligent"
-url: "https://huangxuan.me" # your host, for absolute URL
+url: "https://xjay.me" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -70,7 +70,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: xjay.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
